@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>SunnySpigotBaseCore</name>
+    <name>AllGearedUpCore</name>
 
     <properties>
         <java.version>16</java.version>
@@ -124,7 +124,7 @@
 
     <build>
         <directory>../target</directory> <!-- Build it one level up, because it is the one we care about -->
-        <finalName>SunnySpigotBase</finalName>
+        <finalName>AllGearedUp</finalName>
         <!-- Define filtering for the inclusion of plugin.yml, so we can utilize the pom.xml version in it -->
         <resources>
             <resource>

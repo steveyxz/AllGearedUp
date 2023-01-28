@@ -1,13 +1,13 @@
-name: SunnySpigotBaseCore
+name: AllGearedUpCore
 version: '${project.version}'
-main: me.partlysunny.SunnySpigotBaseCore
+main: me.partlysunny.AllGearedUpCore
 api-version: 1.16
 commands:
-  slb:
-    aliases: [ simpleluckyblocks, slb ]
-    description: SunnySpigotBase base command for ops
+  agu:
+    aliases: [ allgearedup, agu ]
+    description: AllGearedUp base command for ops
 
 permissions:
-  slb.admin:
+  agu.admin:
     default: op
-    description: Admin commands (from /slb)
+    description: Admin commands (from /agu)

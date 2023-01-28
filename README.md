@@ -1,1 +1,5 @@
-### Template for Spigot / Paper merge thing for 1.16.5+
+## Simple plugin to get geared up
+
+### COMMANDS:
+
+- /agu <kit>
